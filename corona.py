@@ -20,4 +20,4 @@ elif n==3:
 else:
  print("wrong choice select the correct Number\n")
 
-
+ print("\nStay Home ! Stay Safe !")
